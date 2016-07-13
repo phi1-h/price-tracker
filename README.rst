@@ -1,14 +1,10 @@
-A sample Python project
+Phil's Amazon Price Tracker
 =======================
 
-A sample project that exists as an aid to the `Python Packaging User Guide
-<https://packaging.python.org>`_'s `Tutorial on Packaging and Distributing
-Projects <https://packaging.python.org/en/latest/distributing.html>`_.
+A  project that exists as an aid to monitor any product price on amazon.
 
-This projects does not aim to cover best practices for Python project
-development as a whole. For example, it does not provide guidance or tool
-recommendations for version control, documentation, or testing.
-
+This is my first project, please contribute and be nice :)
+I will add examples soon on how to use my Price Tracker,
 ----
 
 This is the README file for the project.
