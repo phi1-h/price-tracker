@@ -4,7 +4,8 @@ Phil's Amazon Price Tracker
 A  project that exists as an aid to monitor any product price on amazon.
 
 This is my first project, please contribute and be nice :)
-I will add examples soon on how to use my Price Tracker,
+I will add examples soon on how to use my Price Tracker
+
 ----
 
 This is the README file for the project.
