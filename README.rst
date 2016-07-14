@@ -11,8 +11,23 @@ Install
 ----
 Simply use 
 ```
-pip install Phils-Amazon-Price-Tracker
-``` to install my Project.
+pip install Phils-Amazon-Price-Tracker``` to install my Project.
+
+Dependencies
+----
+```'plotly', 'html2text','robobrowser','jupyter','pillow'```
+
+NOTE: These will be installed automatically
+
+NOTE: At the Moment Image export will only work if you create a free account at plotly.com and configure it correctly
+
+Run
+----
+```python3 -m priceTracker``` will start the programm
+
+Options: ```-l link``` add a link to be monitored. Only links from the share option at amazon will work.
+
+I recommend tu use a cronjob to run the programm every hour once automatically.
 
 The file should use UTF-8 encoding and be written using ReStructured Text. It
 will be used to generate the project webpage on PyPI and will be displayed as
